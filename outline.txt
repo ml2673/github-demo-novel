@@ -1,6 +1,6 @@
 Chapter 1
-- Wee meet Nick, Tom, Daisy, Catsby and Jordan
-- Wee meet Nick, Tom, Daisy, and Jordan
+- We meet Nick, Tom, Daisy, Catsby and Jordan
+- We meet Nick, Tom, Daisy, and Jordan
 
 Chapter2
-- Wee meet Nick, Tom, Daisy, and Jordan
+- We meet Nick, Tom, Daisy, and Jordan
